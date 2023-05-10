@@ -1,0 +1,5 @@
+main()
+{
+  print("Enter no. from 1 to 10");
+  scanf("%d",&a);
+  }
