@@ -2,3 +2,9 @@ this is test2.db file
 
 
   in append mode
+
+
+main()
+{
+	print("this is arjun");
+}
