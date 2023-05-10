@@ -3,4 +3,6 @@ this is test3.db file
 main()
 {
 	print("this is karan");
+	print("karan is aws guy");
+	print("karan is linux guy too");
 }
